@@ -1,6 +1,8 @@
 
 ## Solutions for the Hackerrank Algorithm Design Challenge
 
+![Image of Yaktocat](logo.jpg)
+
 ## Challenge 1
 
 ## Triplets Problem
