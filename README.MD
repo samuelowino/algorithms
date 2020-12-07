@@ -1,5 +1,5 @@
 
-## Solutions for the Hackerrank Algorithm Design Challenge
+# Solutions for the Hacker Rank Algorithm Design Challenge
 
 ![Image of Yaktocat](logo.jpg)
 
