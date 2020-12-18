@@ -1,4 +1,4 @@
-# Staircase
+##Staircase
 
 This is a staircase of size :
 
