@@ -1,7 +1,7 @@
 
-# Solutions for the Hacker Rank Algorithm Design Challenge
+# Algorithm Design and Implementation Challenges
 
-![Image of Yaktocat](logo.jpg)
+![Image of Yaktocat](logo.jpeg)
 
 ## Challenge 1
 
